@@ -1,4 +1,4 @@
-# Airline Ticket Price Prediction using Data Analytics, ML & IoT
+# Airline Ticket Price Prediction using Data Analytics
 
 ## Problem Statement
 Airline ticket prices are highly dynamic and influenced by multiple factors such as travel seasonality, departure schedules, demand–supply trends, flight routes, seat availability, and airline operational costs. These continuous fluctuations make it challenging to accurately forecast ticket prices or provide reliable fare estimates to customers in advance.
